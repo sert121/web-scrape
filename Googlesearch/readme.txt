@@ -1,2 +1,2 @@
-You can compile all the title and links of any search query made using the google search engine. You can also specify the number of pages
+You can compile all the titles and links of any search query made using the google search engine. You can also specify the number of pages
 you wanna continue your search for. All relevant links and titles scraped are stored in a .csv file.
