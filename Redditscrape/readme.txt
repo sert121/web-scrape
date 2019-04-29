@@ -1,0 +1,2 @@
+This is a personalised project. It compiles all the threads and its links on Rafael Nadal on r/tennis subreddit on reddit.com.
+It can be reused for different tennis players, by changing the search queries and other relevant code.

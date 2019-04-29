@@ -1,0 +1,1 @@
+It extracts data about the top 100 startup companies according to ycombinator, and unloads them into an excel sheet.
